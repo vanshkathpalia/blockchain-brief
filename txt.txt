@@ -1,0 +1,27 @@
+object or function 
+object when dec -> ({}) and when defining -> () {} me difference h
+: = and ; , 
+_ or const ka difference h
+
+
+_ : , -> varaible passed
+const = ; / -> this. ... = ; this is an object, defined
+//edit this, still confused
+
+
+FOR ADDING NONCE -
+we changed file block this. 
+, genesis config file, mineblock static function, isvalid function -> if found that i hadn't passed data in there
+don't forget to enter it in return 
+
+FOR ADJUSTING THE DIFFICULTY LEVEL - 
+we pass mine rate from config so that we can use it for other purposes 
+difficulty shouldn't de declared at const now
+
+FOR SCOPE OF BETTER DIFFICULTY LEVEL - 
+hexadecimal is actually 0 and 1 even if in our hexadecimal no 0 we can have that in binary 
+-> averagetime.js file for this purpose to create so many blocks -> issue here was no value was shown for avg time... because in genesis block every random input was entered by me earlier 
+-> another issue was that difficulty was not inc or dec only the 1st value was changing if required because in addblock function prev should be current - 1 not chain[0] 
+
+-> publishSub.js error
+json.stirbngfy creating problem and also if normal messafe is passed in publish function handle function not running
